@@ -21,7 +21,15 @@ const products = [
    price: 1299,
    rating: 4.2,
    image: "products-images/3.png"
+ },
+ {
+   category: "men",
+   name: "T-Shirt & Lower",
+   price: 1299,
+   rating: 4.2,
+   image: "products-images/3.png"
  }
+
  
 ];
 
